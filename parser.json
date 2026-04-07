@@ -1,7 +1,6 @@
 {
   "parser_version": "1a74dc0ed731ad07db39f063e2c5a6fe528cae7f",
-  "location": null,
-  "semver": false,
   "url": "https://github.com/bamonroe/tree-sitter-rnoweb",
+  "semver": false,
   "lang": "rnoweb"
 }
